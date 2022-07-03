@@ -1,0 +1,15 @@
+C:\Users\Cael\Repos\SchedulerDemo\bin\Debug\net6.0\SchedulerDemo.exe
+C:\Users\Cael\Repos\SchedulerDemo\bin\Debug\net6.0\SchedulerDemo.deps.json
+C:\Users\Cael\Repos\SchedulerDemo\bin\Debug\net6.0\SchedulerDemo.runtimeconfig.json
+C:\Users\Cael\Repos\SchedulerDemo\bin\Debug\net6.0\SchedulerDemo.dll
+C:\Users\Cael\Repos\SchedulerDemo\bin\Debug\net6.0\SchedulerDemo.pdb
+C:\Users\Cael\Repos\SchedulerDemo\obj\Debug\net6.0\SchedulerDemo.csproj.AssemblyReference.cache
+C:\Users\Cael\Repos\SchedulerDemo\obj\Debug\net6.0\SchedulerDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cael\Repos\SchedulerDemo\obj\Debug\net6.0\SchedulerDemo.AssemblyInfoInputs.cache
+C:\Users\Cael\Repos\SchedulerDemo\obj\Debug\net6.0\SchedulerDemo.AssemblyInfo.cs
+C:\Users\Cael\Repos\SchedulerDemo\obj\Debug\net6.0\SchedulerDemo.csproj.CoreCompileInputs.cache
+C:\Users\Cael\Repos\SchedulerDemo\obj\Debug\net6.0\SchedulerDemo.dll
+C:\Users\Cael\Repos\SchedulerDemo\obj\Debug\net6.0\refint\SchedulerDemo.dll
+C:\Users\Cael\Repos\SchedulerDemo\obj\Debug\net6.0\SchedulerDemo.pdb
+C:\Users\Cael\Repos\SchedulerDemo\obj\Debug\net6.0\SchedulerDemo.genruntimeconfig.cache
+C:\Users\Cael\Repos\SchedulerDemo\obj\Debug\net6.0\ref\SchedulerDemo.dll
